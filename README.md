@@ -1,5 +1,7 @@
 # AI Engineering — Edición esencial en español
 
+**Ver online:** https://joelelizalde.github.io/ai-engineering-edicion-esencial/
+
 Sitio estático (sin build, sin dependencias) para estudiar lo esencial de la ingeniería de IA.
 Basado en *AI Engineering: Building Applications with Foundation Models*, de Chip Huyen.
 
